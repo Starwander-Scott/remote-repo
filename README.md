@@ -1,2 +1,2 @@
-# remote-repp
+# remote-repo
 This is my first repo.
